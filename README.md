@@ -1,5 +1,6 @@
 # EX01 Developing a Simple Webserver
-
+## Name : Keerthan D
+## Reg no. : 212224240075
 ## Date: 18.04.2025
 
 ## AIM:
